@@ -1,0 +1,14 @@
+Alphatek body map — asset provenance
+
+Source: Human Base Meshes v1.4.1, Blender Studio and community contributions
+Selected asset: Body Female - Realistic
+Author metadata: {"author": "Dan Ulrich", "description": "Realistic scan data model with multiresolution details", "license": "CC0", "copyright": ""}
+License: CC0 1.0 Universal
+Official source: https://www.blender.org/download/demo-files/
+Download: https://mirror.blender.org/demo/asset-bundles/human-base-meshes/human-base-meshes-bundle-v1.4.1.zip
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+Changes: normalized to 1.8m; multires level 1; 58 named body locations; curved surface partitions fitted to source anatomy; replacement materials; GLB export. Original pose retained.
+Regions are UI locations, not clinical segmentation or diagnoses.
+Version: alphatek-body-female-v1
+Anatomical left is the person's left. GLB Y-up, front +Z, left +X. Blender Z-up, front -Y, left +X.

@@ -1,0 +1,48 @@
+{
+  "modelVersion": "alphatek-body-female-v1",
+  "height": 1.8,
+  "blender_bounds": [
+    [
+      -0.46245,
+      0.46234
+    ],
+    [
+      -0.18383,
+      0.12793
+    ],
+    [
+      0.0,
+      1.8
+    ]
+  ],
+  "gltf_bounds": [
+    [
+      -0.46245,
+      0.46234
+    ],
+    [
+      0.0,
+      1.8
+    ],
+    [
+      -0.12793,
+      0.18383
+    ]
+  ],
+  "up": "Y",
+  "front": "+Z",
+  "anatomical_left": "+X",
+  "regions": 58,
+  "source_metadata": {
+    "author": "Dan Ulrich",
+    "description": "Realistic scan data model with multiresolution details",
+    "license": "CC0",
+    "copyright": ""
+  },
+  "partition_check": {
+    "source_triangles": 84680,
+    "source_area_m2": 1.5670761042114332,
+    "partition_area_m2": 1.5670761075153643,
+    "relative_error": 2.1083412093420825e-09
+  }
+}
